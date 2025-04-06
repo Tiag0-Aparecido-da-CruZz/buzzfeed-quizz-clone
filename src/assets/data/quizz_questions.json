@@ -1,0 +1,55 @@
+{
+  "title": "Qual personagem bíblico você seria? ✨",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Como você reage diante de grandes desafios?",
+      "options": [
+        { "id": 1, "name": "Com coragem e fé", "alias": "A" },
+        { "id": 2, "name": "Com sabedoria e paciência", "alias": "B" },
+        { "id": 3, "name": "Com lágrimas, mas sigo firme", "alias": "C" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual dessas qualidades mais te representa?",
+      "options": [
+        { "id": 1, "name": "Liderança", "alias": "A" },
+        { "id": 2, "name": "Humildade", "alias": "C" },
+        { "id": 3, "name": "Sabedoria", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Se Deus te desse uma missão, qual seria sua resposta?",
+      "options": [
+        { "id": 1, "name": "Eis-me aqui!", "alias": "C" },
+        { "id": 2, "name": "Envia-me, Senhor!", "alias": "A" },
+        { "id": 3, "name": "Fala, que o teu servo ouve", "alias": "B" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual dessas situações você lidaria melhor?",
+      "options": [
+        { "id": 1, "name": "Guiar um povo difícil", "alias": "A" },
+        { "id": 2, "name": "Enfrentar gigantes com fé", "alias": "C" },
+        { "id": 3, "name": "Resolver conflitos com sabedoria", "alias": "B" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual versículo mais te inspira?",
+      "options": [
+        { "id": 1, "name": "O Senhor é o meu pastor", "alias": "C" },
+        { "id": 2, "name": "Tudo posso naquele que me fortalece", "alias": "A" },
+        { "id": 3, "name": "O temor do Senhor é o princípio da sabedoria", "alias": "B" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você se parece com Moisés – determinado, corajoso e um grande líder.",
+    "B": "Você se parece com Salomão – sábio, estratégico e calmo.",
+    "C": "Você se parece com Davi – sensível, forte e com um coração segundo Deus."
+  }
+}
